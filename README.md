@@ -20,7 +20,7 @@
 ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Intellij](https://img.shields.io/badge/Intellij-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 
-# baekjoon
+# ⭐baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin0928)](https://solved.ac/kevin0928/)
  
 # :mailbox_with_mail: Contact ME
