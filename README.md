@@ -25,8 +25,8 @@
 # ⭐baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin0928)](https://solved.ac/kevin0928/)
 
-# Git
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yongjun-hong&show_icons=true&theme=nord)  
+<!-- # Git -->
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=yongjun-hong&show_icons=true&theme=nord)   -->
 
 # :mailbox_with_mail: Contact ME
 [![Tistory Blog](http://img.shields.io/badge/-Tistory%20blog-black?style=for-the-badg&logo=Tistory&link=https://solution-is-here.tistory.com//)](https://solution-is-here.tistory.com/)
