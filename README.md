@@ -1,7 +1,5 @@
-# Hong YongJun 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Yongjun-Hong&fontSize=70&animation=twinkling)
 ### -want to be a backend engineer
-
-
 
 # 💻
 ### Techs
