@@ -21,7 +21,6 @@
 
 # :mailbox_with_mail: Contact ME
 [![Tistory Blog](http://img.shields.io/badge/-Tistory%20blog-black?style=for-the-badg&logo=Tistory&link=https://solution-is-here.tistory.com//)](https://solution-is-here.tistory.com/)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badg&logo=Naver&logoColor=white&link=mailto:kevin0928@naver.com)](mailto:kevin0928@naver.com)
 [![Tistory Blog](http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badg&logo=Instagram&logoColor=white&link=https://www.instagram.com/yong_goose//)](https://www.instagram.com/yong_goose/)
 
 # 🤖
