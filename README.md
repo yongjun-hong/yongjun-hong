@@ -10,9 +10,8 @@
   "blog": "https://solution-is-here.tistory.com"
   "dev": {
     "familiar": [
-      "Spring",
-      "Spring-Boot", "Java", "Python",
-      "C", "Mysql", "AWS"
+      "Spring", "Spring-Boot",
+      "Java", "Python", "C", "Mysql", "AWS"
     ],
     "learning": ["GO"]
   }
