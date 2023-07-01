@@ -5,7 +5,8 @@
 ```json
 {
   "name": "Yongjun-Hong",
-  "Study": "Clean_Code, Object-oriented",
+  "club" : "LikeLion At SCH (Core Member)"
+  "studying": "Clean_Code, Object-oriented",
   "blog": "https://solution-is-here.tistory.com"
   "dev": {
     "familiar": [
