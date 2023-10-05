@@ -13,7 +13,7 @@
       "Spring", "Spring-Boot",
       "Java", "Python", "C", "Mysql", "AWS"
     ],
-    "learning": ["GO"]
+    "learning": ["DOCKER"]
   }
 }
 ```
