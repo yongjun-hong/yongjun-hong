@@ -6,8 +6,8 @@
 {
   "name": "Yongjun-Hong",
   "club" : "LikeLion At SCH (Core Member)",
-  "studying": "Clean_Code, Object-oriented, Design-pattern" ,
-  "blog": "https://solution-is-here.tistory.com"
+  "studying": "Clean_Code, Object-oriented, Design-pattern",
+  "blog": "https://solution-is-here.tistory.com",
   "dev": {
     "familiar": [
       "Spring", "Spring-Boot",
